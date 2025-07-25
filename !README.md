@@ -142,7 +142,7 @@ Developed an in-depth incident response plan framework including the team roles 
 **Tools Used:** OpenVAS, Linux, Windows 11, NIST, MITRE, CWE, CVSS 
 **Description:**  
 Performed a vulnerability scan on two systems and found one high-severity issues related to weak FTP credentials. Delivered mitigation strategies priotized by severity and a timeline suggestion for efficient implementation of security controls.  
-[Read the Report](./Vulnerabilities_Assessment.pdf))
+[Read the Report](./Vulnerabilities_Assessment.pdf)
 
 </details>
 
