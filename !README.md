@@ -155,3 +155,4 @@ Performed a vulnerability scan on two systems and found one high-severity issues
 ---
 
 > All projects are educational simulations or case studies based on real-world tools, frameworks, and methodologies.
+> Licensed under the [MIT License](./LICENSE)
