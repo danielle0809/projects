@@ -24,7 +24,8 @@ Welcome to my cybersecurity portfolio! This repository showcases my projects tha
 <details>
   <summary><strong>View Project</strong></summary>
 
-**Tools Used:** NIST  
+**Tools Used:**  
+[![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)    
 **Description:**  
 Wrote a guide covering strong password creation, MFA, VPNs, encryption, and secure email practices, with actionable steps to improve cybersecurity posture in organizations.  
 [Read the Report](./Cybersecurity_Best_Practices.pdf)
@@ -38,7 +39,15 @@ Wrote a guide covering strong password creation, MFA, VPNs, encryption, and secu
 <details>
   <summary><strong>View Project</strong></summary>
 
-**Tools Used:** Volatility, FTK Imager, Registry Explorer, Wireshark, VirusTotal, MITRE ATT&CK  
+**Tools Used:**  
+[![Volatility](https://img.shields.io/badge/Volatility-3.2.5.2-blue?style=flat-square)](https://www.volatilityfoundation.org/)
+[![FTK Imager](https://img.shields.io/badge/FTK_Imager-4.7.1.2-darkgrey?style=flat-square)](https://accessdata.com/product-download)
+[![Registry Explorer](https://img.shields.io/badge/Registry_Explorer-v2.0.0.0-purple?style=flat-square)](https://github.com/hasherezade/RegistryExplorer)
+[![Wireshark](https://img.shields.io/badge/Wireshark-3.4.7-blue?style=flat-square)](https://www.wireshark.org/)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-Online-yellow?style=flat-square)](https://www.virustotal.com/)
+[![TimeLine Explorer](https://img.shields.io/badge/TimeLine_Explorer-v2.0.0.1-orange?style=flat-square)](https://www.timelineexplorer.com/)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-darkred?style=flat-square)](https://attack.mitre.org/)
+
 **Description:**  
 Investigated a breach caused by a brute-force RDP attack. Identified malware behavior using forensic tools and documented timeline and indicators of compromise.  
 [Read the Report](./Forensics_Report.pdf)
@@ -52,7 +61,9 @@ Investigated a breach caused by a brute-force RDP attack. Identified malware beh
 <details>
   <summary><strong>View Project</strong></summary>
 
-**Tools Used:** MITRE ATT&CK, NIST  
+**Tools Used:**  
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-darkred?style=flat-square)](https://attack.mitre.org/)
+[![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)  
 **Description:**  
 Created an Incident Response Playbook for Box Manufacturing to handle phishing attacks using the NIST framework. Includes a policy framework relevant to the implementation of the phishing incident response plan.  
 [Read the Report](./IR_Plan_and_Phishing_Playbook.pdf)
@@ -66,7 +77,10 @@ Created an Incident Response Playbook for Box Manufacturing to handle phishing a
 <details>
   <summary><strong>View Project</strong></summary>
 
-**Tools Used:** MITRE ATT&CK,  NIST 800-12  
+**Tools Used:**  
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-darkred?style=flat-square)](https://attack.mitre.org/)
+[![NIST 800-12](https://img.shields.io/badge/NIST_800--12-yellow?style=flat-square)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-12r1.pdf)  
+
 **Description:**  
 Investigated the 2018 Marriott breach affecting 383 million Canadians. Analyzed attacker techniques, security failures, and provided prevention recommendations.  
 [Read the Report](./Marriot_Data_Breach.pdf)
@@ -80,12 +94,21 @@ Investigated the 2018 Marriott breach affecting 383 million Canadians. Analyzed 
 <details>
   <summary><strong>View Project</strong></summary>
 
-**Tools Used:** MITRE ATT&CK, NIST, Nmap, Wireshark, Unix/Linux Commands, MySQL  
+**Tools Used:**  
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-darkred?style=flat-square)](https://attack.mitre.org/)
+[![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
+[![Nmap](https://img.shields.io/badge/Nmap-blue?style=flat-square)](https://nmap.org/)
+[![Wireshark 4.4.2](https://img.shields.io/badge/Wireshark-4.4.2-1679A7?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Unix/Linux Commands](https://img.shields.io/badge/Unix/Linux_Commands-green?style=flat-square)](https://www.gnu.org/)
+[![MySQL Commands](https://img.shields.io/badge/MySQL_Commands-blue?style=flat-square)](https://dev.mysql.com/doc/)  
+
 **Description:**  
 Drafted an email to my manager summarizing the incident and with suggested improvements in regards to data security and reduce breach risk by priority, setting groundwork for developing a robust secuirty policy framework following the security incident. Incident response report provides a comprehensive incident analysis with relevant security recommendations.  
 [Read the Draft Email](./Manager_Email_Draft.pdf)  
 [Read the Report](./Premium_House_Lights_Incident_Response.pdf)
 
+</details>
+  
 ---
 
 ## Risk Management Plan
@@ -93,7 +116,9 @@ Drafted an email to my manager summarizing the incident and with suggested impro
 <details>
   <summary><strong>View Project</strong></summary>
 
-**Tools Used:** NIST 800-53, NIST RMF, MITRE ATT&CK  
+**Tools Used:**  
+[![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-darkred?style=flat-square)](https://attack.mitre.org/)
 **Description:**  
 Conducted a structured analysis for DHAEI using NIST to assess and mitigate risks like unauthorized access and downtime. Recommended technical and organizational safeguards.  
 [Read the Report](./Risk_Management_Plan.pdf)
@@ -107,7 +132,10 @@ Conducted a structured analysis for DHAEI using NIST to assess and mitigate risk
 <details>
   <summary><strong>View Project</strong></summary>
 
-**Tools Used:** NIST CSF v2, PCI DSS, PIPEDA 
+**Tools Used:**  
+[![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
+[![PCI DSS](https://img.shields.io/badge/PCI_DSS-orange?style=flat-square)](https://www.pcisecuritystandards.org/)
+[![PIPEDA](https://img.shields.io/badge/PCI_DSS-darkyellow?style=flat-square)](https://www.pcisecuritystandards.org/standards/)   
 **Description:**  
 Recommended a secure architecture for a growing e-commerce company, addressing gaps between current and target security posture and prioritizing necessary actions to take to mitigate existing security risks.  
 [Read the Report](./Secure_Architecture_Report.pdf)
@@ -121,14 +149,12 @@ Recommended a secure architecture for a growing e-commerce company, addressing g
 <details>
   <summary><strong>View Project</strong></summary>
 
-**Tools Used:** NIST 800-12, NIST CSF v2 
+**Tools Used:**  
+[![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
+[![NIST 800-12](https://img.shields.io/badge/NIST_800--12-yellow?style=flat-square)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-12r1.pdf)  
 **Description:**  
 Developed an in-depth incident response plan framework including the team roles and responsibilities, a sample playbook, and relevant triggers that warrant escalation and stakeholder notification.  
 [Read the Report](./Security_Incident_Response_Plan.pdf)
-
-</details>
-
----
 
 </details>
 
@@ -139,7 +165,14 @@ Developed an in-depth incident response plan framework including the team roles 
 <details>
   <summary><strong>View Project</strong></summary>
 
-**Tools Used:** OpenVAS, Linux, Windows 11, NIST, MITRE, CWE, CVSS 
+**Tools Used:**  
+[![NIST](https://img.shields.io/badge/NIST_CSF-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-brightgreen?style=flat-square)](https://www.openvas.org/)
+[![Linux](https://img.shields.io/badge/Linux-darkgrey?style=flat-square)](https://www.linux.org/)
+[![Windows 11](https://img.shields.io/badge/Windows_11-blue?style=flat-square)](https://www.microsoft.com/en-us/windows/windows-11)
+[![MITRE CWE](https://img.shields.io/badge/MITRE_CWE-red?style=flat-square)](https://cwe.mitre.org/)
+[![CVSS](https://img.shields.io/badge/CVSS-darkgreen?style=flat-square)](https://www.first.org/cvss/)  
+
 **Description:**  
 Performed a vulnerability scan on two systems and found one high-severity issues related to weak FTP credentials. Delivered mitigation strategies priotized by severity and a timeline suggestion for efficient implementation of security controls.  
 [Read the Report](./Vulnerabilities_Assessment.pdf)
@@ -150,7 +183,7 @@ Performed a vulnerability scan on two systems and found one high-severity issues
 
 ## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/danielle-daza/
+- **LinkedIn:** https://www.linkedin.com/in/danielle-daza/  
 - **Email:** danielle.a.daza@gmail.com
 
 ---
