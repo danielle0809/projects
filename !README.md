@@ -1,4 +1,6 @@
-# Danielle Daza's Projects
+# Danielle Daza's Projects  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat)](https://www.linkedin.com/in/danielle-daza/)   
 
 Welcome to my cybersecurity portfolio! This repository showcases my projects that demonstrate my skills in vulnerability assessment, incident response, remediation solutions, and digital forensics.
 
@@ -15,14 +17,10 @@ Welcome to my cybersecurity portfolio! This repository showcases my projects tha
 - [Secure Architecture](#secure-architecture)
 - [Security Incident Response Plan](#security-incident-response-plan)
 - [Vulnerablilities Assessment](#vulnerabilities-assessment)
-- [Contact](#contact)
 
 ---
 
 ## Cybersecurity Best Practices
-
-<details>
-  <summary><strong>View Project</strong></summary>
 
 **Tools Used:**  
 [![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)    
@@ -30,14 +28,10 @@ Welcome to my cybersecurity portfolio! This repository showcases my projects tha
 Wrote a guide covering strong password creation, MFA, VPNs, encryption, and secure email practices, with actionable steps to improve cybersecurity posture in organizations.  
 [Read the Report](./Cybersecurity_Best_Practices.pdf)
 
-</details>
-
 ---
 
 ## Forensics Report – Stolen Szechuan Sauce
 
-<details>
-  <summary><strong>View Project</strong></summary>
 
 **Tools Used:**  
 [![Volatility](https://img.shields.io/badge/Volatility-3.2.5.2-blue?style=flat-square)](https://www.volatilityfoundation.org/)
@@ -52,14 +46,9 @@ Wrote a guide covering strong password creation, MFA, VPNs, encryption, and secu
 Investigated a breach caused by a brute-force RDP attack. Identified malware behavior using forensic tools and documented timeline and indicators of compromise.  
 [Read the Report](./Forensics_Report.pdf)
 
-</details>
-
 ---
 
 ## IR Plan, Playbook and Relevant Policies
-
-<details>
-  <summary><strong>View Project</strong></summary>
 
 **Tools Used:**  
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-darkred?style=flat-square)](https://attack.mitre.org/)
@@ -68,14 +57,9 @@ Investigated a breach caused by a brute-force RDP attack. Identified malware beh
 Created an Incident Response Playbook for Box Manufacturing to handle phishing attacks using the NIST framework. Includes a policy framework relevant to the implementation of the phishing incident response plan.  
 [Read the Report](./IR_Plan_and_Phishing_Playbook.pdf)
 
-</details>
-
 ---
 
 ## Marriott Data Breach Report
-
-<details>
-  <summary><strong>View Project</strong></summary>
 
 **Tools Used:**  
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-darkred?style=flat-square)](https://attack.mitre.org/)
@@ -85,14 +69,9 @@ Created an Incident Response Playbook for Box Manufacturing to handle phishing a
 Investigated the 2018 Marriott breach affecting 383 million Canadians. Analyzed attacker techniques, security failures, and provided prevention recommendations.  
 [Read the Report](./Marriot_Data_Breach.pdf)
 
-</details>
-
 ---
 
 ## Premium House Lights Incident Response Report
-
-<details>
-  <summary><strong>View Project</strong></summary>
 
 **Tools Used:**  
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-darkred?style=flat-square)](https://attack.mitre.org/)
@@ -106,15 +85,10 @@ Investigated the 2018 Marriott breach affecting 383 million Canadians. Analyzed 
 Drafted an email to my manager summarizing the incident and with suggested improvements in regards to data security and reduce breach risk by priority, setting groundwork for developing a robust secuirty policy framework following the security incident. Incident response report provides a comprehensive incident analysis with relevant security recommendations.  
 [Read the Draft Email](./Manager_Email_Draft.pdf)  
 [Read the Report](./Premium_House_Lights_Incident_Response.pdf)
-
-</details>
   
 ---
 
 ## Risk Management Plan
-
-<details>
-  <summary><strong>View Project</strong></summary>
 
 **Tools Used:**  
 [![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
@@ -123,14 +97,9 @@ Drafted an email to my manager summarizing the incident and with suggested impro
 Conducted a structured analysis for DHAEI using NIST to assess and mitigate risks like unauthorized access and downtime. Recommended technical and organizational safeguards.  
 [Read the Report](./Risk_Management_Plan.pdf)
 
-</details>
-
 ---
 
 ## Secure Architecture
-
-<details>
-  <summary><strong>View Project</strong></summary>
 
 **Tools Used:**  
 [![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
@@ -140,14 +109,9 @@ Conducted a structured analysis for DHAEI using NIST to assess and mitigate risk
 Recommended a secure architecture for a growing e-commerce company, addressing gaps between current and target security posture and prioritizing necessary actions to take to mitigate existing security risks.  
 [Read the Report](./Secure_Architecture_Report.pdf)
 
-</details>
-
 ---
 
 ## Security Incident Response Plan
-
-<details>
-  <summary><strong>View Project</strong></summary>
 
 **Tools Used:**  
 [![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
@@ -156,14 +120,9 @@ Recommended a secure architecture for a growing e-commerce company, addressing g
 Developed an in-depth incident response plan framework including the team roles and responsibilities, a sample playbook, and relevant triggers that warrant escalation and stakeholder notification.  
 [Read the Report](./Security_Incident_Response_Plan.pdf)
 
-</details>
-
 ---
 
 ## Vulnerabilities Assessment
-
-<details>
-  <summary><strong>View Project</strong></summary>
 
 **Tools Used:**  
 [![NIST](https://img.shields.io/badge/NIST_CSF-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
@@ -177,14 +136,6 @@ Developed an in-depth incident response plan framework including the team roles 
 Performed a vulnerability scan on two systems and found one high-severity issues related to weak FTP credentials. Delivered mitigation strategies priotized by severity and a timeline suggestion for efficient implementation of security controls.  
 [Read the Report](./Vulnerabilities_Assessment.pdf)
 
-</details>
-
----
-
-## Contact
-
-- **LinkedIn:** https://www.linkedin.com/in/danielle-daza/  
-- **Email:** danielle.a.daza@gmail.com
 
 ---
 
