@@ -92,7 +92,7 @@ Drafted an email to my manager summarizing the incident and with suggested impro
 
 **Tools Used:**  
 [![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-darkred?style=flat-square)](https://attack.mitre.org/)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-darkred?style=flat-square)](https://attack.mitre.org/)  
 **Description:**  
 Conducted a structured analysis for DHAEI using NIST to assess and mitigate risks like unauthorized access and downtime. Recommended technical and organizational safeguards.  
 [Read the Report](./Risk_Management_Plan.pdf)
