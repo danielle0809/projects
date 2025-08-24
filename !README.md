@@ -104,7 +104,6 @@ Conducted a structured analysis for DHAEI using NIST to assess and mitigate risk
 **Tools Used:**  
 [![NIST CSF v2](https://img.shields.io/badge/NIST_CSF_v2-darkblue?style=flat-square)](https://www.nist.gov/cyberframework)
 [![PCI DSS](https://img.shields.io/badge/PCI_DSS-orange?style=flat-square)](https://www.pcisecuritystandards.org/)
-[![PIPEDA](https://img.shields.io/badge/PCI_DSS-darkyellow?style=flat-square)](https://www.pcisecuritystandards.org/standards/)   
 **Description:**  
 Recommended a secure architecture for a growing e-commerce company, addressing gaps between current and target security posture and prioritizing necessary actions to take to mitigate existing security risks.  
 [Read the Report](./Secure_Architecture_Report.pdf)
